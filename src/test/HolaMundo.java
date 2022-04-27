@@ -9,6 +9,8 @@ public class HolaMundo {
 		System.out.println("Hola, soy Pablo");
 		System.out.println("Hola, soy Miguel :)" );
 		System.out.println("Hola soy Antonio");
+		System.out.println("Hola, soy Miguel :)" );		
+		System.out.println("Hola soy Mateo");
 
 	}
 
